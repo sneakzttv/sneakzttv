@@ -36,14 +36,6 @@
 
 ###
 
-<h4 align="center">My Github contributions with a fun snake game, check it out before they get eaten!</h4>
-
-###
-
-<img src="https://raw.githubusercontent.com/sneakzttv/sneakzttv/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="center">Getting in touch with me:</h4>
 
 ###
